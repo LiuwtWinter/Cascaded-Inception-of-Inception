@@ -1,0 +1,1 @@
+trained_AIOI_CJN_MPI.caffemodel filter=lfs diff=lfs merge=lfs -text
